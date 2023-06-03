@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arcanum-reborn/static/css/main.54bde010.css",
+    "main.js": "/arcanum-reborn/static/js/main.b6e85ef1.js",
+    "static/js/787.21fcd920.chunk.js": "/arcanum-reborn/static/js/787.21fcd920.chunk.js",
+    "static/media/logo.svg": "/arcanum-reborn/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arcanum-reborn/index.html",
+    "main.54bde010.css.map": "/arcanum-reborn/static/css/main.54bde010.css.map",
+    "main.b6e85ef1.js.map": "/arcanum-reborn/static/js/main.b6e85ef1.js.map",
+    "787.21fcd920.chunk.js.map": "/arcanum-reborn/static/js/787.21fcd920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bde010.css",
+    "static/js/main.b6e85ef1.js"
+  ]
+}
