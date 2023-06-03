@@ -23,9 +23,10 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint -c eslint.js --ext .jsx,.js,.ts,.tsx src/ --fix",
+    "test": "react-scripts test",
+    "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}' -c eslint.js --fix src/" ,
+    "lint:ci": "eslint 'src/**/*.{js,jsx,ts,tsx}' -c eslint.js --max-warnings 0 src/",
     "deploy": "gh-pages -d build",
     "predeploy": "yarn build"
   },
