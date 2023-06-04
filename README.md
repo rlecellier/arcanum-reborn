@@ -7,7 +7,9 @@ The game may change along the way, let's have fun.
 * Orignial idea from [mathiashjelm/arcanum](https://gitlab.com/mathiashjelm/arcanum).
 * Code game design from [soloschenko-grigoriy/gamedev-patterns-ts](https://github.com/soloschenko-grigoriy/gamedev-patterns-ts)
 * Initialize with [react-create-app](https://create-react-app.dev/)
-
+* [ecs faq](https://github.com/SanderMertens/ecs-faq)
+* [typescript ecs](https://maxwellforbes.com/posts/typescript-ecs-implementation/)
+* [typescript ecs with entité relationship](https://ajmmertens.medium.com/building-games-in-ecs-with-entity-relationships-657275ba2c6c)
 ## Project cookbook
 
 ### `yarn start`
